@@ -1,2 +1,2 @@
 __version__ = "0.1.0"
-from .client import NimbusClient
+from .client import ClientB2C, ClientB2B
